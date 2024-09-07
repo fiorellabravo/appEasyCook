@@ -16,12 +16,50 @@ appEasyCook es una aplicacion que brinda recetas de multiples platos, explora un
 ## Reporterias
 1- Obtener usuarios y sus recetas favoritas
 ![image](https://github.com/user-attachments/assets/7fd1ae0c-94d3-4884-98ef-942b187bc2ab)
+
+
+
+
+
+
+
+
+
 2-Obtener el listado de todas las recetas y sus categorías
 ![image](https://github.com/user-attachments/assets/b9d38441-3bd6-498b-87cb-88f7e08ef58d)
+
+
+
+
+
+
+
+
+
 3- Obtener el listado de recetas con iingredientes que contienen mas de 200 gramos
 ![image](https://github.com/user-attachments/assets/0a3eec2b-30bb-4c77-bf64-ef3f88518d1e)
+
+
+
+
+
+
+
+
+
+
 4- Listado de todos los usuarios que han creado recetas en la categoría 'postres'
 ![image](https://github.com/user-attachments/assets/2e8de7c3-e18a-4062-a3b5-c0c3b5264fb7)
+
+
+
+
+
+
+
+
+
+
 5- Devuelve un listado con los ingredientes utilizados en la receta 'Ensalada de quinua y verduras', junto con su cantidad y unidad'
 ![image](https://github.com/user-attachments/assets/c207e1e5-549f-4dae-b3ca-18ae8f39414d)
 
