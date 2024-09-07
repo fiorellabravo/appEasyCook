@@ -25,8 +25,22 @@ appEasyCook es una aplicacion que brinda recetas de multiples platos, explora un
 
 
 
+
+
+
+
+
 2-Obtener el listado de todas las recetas y sus categorías
 ![image](https://github.com/user-attachments/assets/b9d38441-3bd6-498b-87cb-88f7e08ef58d)
+
+
+
+
+
+
+
+
+
 
 
 
@@ -48,8 +62,20 @@ appEasyCook es una aplicacion que brinda recetas de multiples platos, explora un
 
 
 
+
+
+
+
+
 4- Listado de todos los usuarios que han creado recetas en la categoría 'postres'
 ![image](https://github.com/user-attachments/assets/2e8de7c3-e18a-4062-a3b5-c0c3b5264fb7)
+
+
+
+
+
+
+
 
 
 
