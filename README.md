@@ -46,21 +46,32 @@ appEasyCook es una aplicacion que brinda recetas de multiples platos, explora un
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 - comentarios: Guarda los comentarios de cada usuario en las diferentes recetas.
+
+
+
+
+![image](https://github.com/user-attachments/assets/d6aea267-dc16-4411-8874-e755239a40af)
+
+
+
+  
 - ingredientes: Tiene información relacionada con las preferencias de cada usuario.
+
+
+
+![image](https://github.com/user-attachments/assets/095fbf19-da8f-4b17-a836-ae4f17e0ecfe)
+
+
+
 - favoritos: Adjunta las recetas favoritas de cada usuario.
+
+
+
+![image](https://github.com/user-attachments/assets/bf3a7206-708f-4350-9c41-81d85450eb18)
+
+
+
 
 ## Consultas sobre una tabla
 1- Obtener usuarios y sus recetas favoritas
