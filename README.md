@@ -100,6 +100,8 @@ appEasyCook es una aplicacion que brinda recetas de multiples platos, explora un
 
 
 ![image](https://github.com/user-attachments/assets/0a3eec2b-30bb-4c77-bf64-ef3f88518d1e)
+![image](https://github.com/user-attachments/assets/0bc0de8f-f3f9-4145-9b30-c8ebdec8702c)
+
 
 
 
