@@ -81,7 +81,7 @@ appEasyCook es una aplicacion que brinda recetas de multiples platos, explora un
 
 ![image](https://github.com/user-attachments/assets/7fd1ae0c-94d3-4884-98ef-942b187bc2ab)
 
-
+[![imagen-1.png](https://i.postimg.cc/9fMMG8s6/imagen-1.png)](https://postimg.cc/75Fw4VH9)
 
 
 2-Obtener el listado de todas las recetas y sus categorías
@@ -91,7 +91,9 @@ appEasyCook es una aplicacion que brinda recetas de multiples platos, explora un
 
 ![image](https://github.com/user-attachments/assets/b9d38441-3bd6-498b-87cb-88f7e08ef58d)
 
+[![imagen-4.png](https://i.postimg.cc/FRkLpzbV/imagen-4.png)](https://postimg.cc/0Mxj28Bz)
 
+[![imagen.png](https://i.postimg.cc/903qn2J5/imagen.png)](https://postimg.cc/zbjBy9s0)
 
 
 3- Obtener el listado de recetas con iingredientes que contienen mas de 200 gramos
