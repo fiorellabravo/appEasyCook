@@ -100,7 +100,9 @@ appEasyCook es una aplicacion que brinda recetas de multiples platos, explora un
 
 
 ![image](https://github.com/user-attachments/assets/0a3eec2b-30bb-4c77-bf64-ef3f88518d1e)
-![image](https://github.com/user-attachments/assets/0bc0de8f-f3f9-4145-9b30-c8ebdec8702c)
+
+
+
 
 
 
@@ -116,10 +118,33 @@ appEasyCook es una aplicacion que brinda recetas de multiples platos, explora un
 
 
 
+
+
+
+![image](https://github.com/user-attachments/assets/8997ebff-2659-419f-a1e5-8cae2e8d1d2c)
+
+
+
+
+
+
+
+
 5- Devuelve un listado con los ingredientes utilizados en la receta 'Ensalada de quinua y verduras', junto con su cantidad y unidad'
 
 
 
 
+
 ![image](https://github.com/user-attachments/assets/c207e1e5-549f-4dae-b3ca-18ae8f39414d)
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/8f04a202-99f7-4404-b339-148e837948ed)
+
+
 
