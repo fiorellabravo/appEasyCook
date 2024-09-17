@@ -110,6 +110,17 @@ appEasyCook es una aplicacion que brinda recetas de multiples platos, explora un
 
 
 
+
+![image](https://github.com/user-attachments/assets/b8f503fc-fd56-427f-8142-c5b6ea414c25)
+
+
+
+
+
+
+
+
+
 4- Listado de todos los usuarios que han creado recetas en la categoría 'postres'
 
 
